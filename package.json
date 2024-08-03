@@ -1,6 +1,6 @@
 {
   "name": "@devtea2026/ab-corporis-ipsa-dolorem",
-  "version": "2.9.77",
+  "version": "2.9.78",
   "description": " ",
   "main": "index.js",
   "author": "Antwii1",
@@ -508,5 +508,5 @@
   "bugs": {
     "url": "https://github.com/devtea2026/ab-corporis-ipsa-dolorem/issues"
   },
-  "packageManager": "yarn@4.3.1"
+  "packageManager": "yarn@4.4.0"
 }
